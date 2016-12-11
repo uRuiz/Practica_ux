@@ -1,0 +1,9 @@
+El objetivo de este sitio web es la creación de un espacio que permita la publicación de todo tipo de contenido sin limitaciones.
+
+Dada la facilidad con la que se puede subir una noticia/opinión, mediante el uso de la ayuda, todo aquel que tenga algo que decir, podra hacerlo. Esto supone en la práctica, una página abierta a todo aquel que posea un dispositivo conectado a internet, que permitirá a todo el mundo su uso de una manera sencilla.
+
+Bajo estas premisas la página se presenta como un medio sencillo y fácil de uso, que permitirá la publicación de historias, visualizándose de manera tanto cronológica como por temática y que permitirá también la interacción entre los lectores y publicadores de una manera fácil y clara.
+
+El publicador será capaz de visualizar todos los comentarios que hagan de su artículo, pudiendo ver, qué, quién y cuando realizo un lector una opinión.
+
+Por su parte el lector será capaz de visualizar las noticias publicadas por orden cronológico, poniendo a su disposición la opción de filtrar por categorías los temas a los que se muestre mas afín.
